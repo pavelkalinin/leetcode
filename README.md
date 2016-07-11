@@ -1,1 +1,22 @@
-# leetcode
+##LeetCode
+
+###Solutions to some challenges from [LeetCode.com](https://leetcode.com/)
+
+* [Add Digits](https://leetcode.com/problems/add-digits/)
+* [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+* [House Robber](https://leetcode.com/problems/house-robber/)
+* [Integer To Roman](https://leetcode.com/problems/integer-to-roman/)
+* [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+* [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+* [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+* [Missing Number](https://leetcode.com/problems/missing-number/)
+* [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+* [Plus One](https://leetcode.com/problems/plus-one/)
+* [Power of Three](https://leetcode.com/problems/power-of-three/)
+* [Power of Two](https://leetcode.com/problems/power-of-two/)
+* [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+* [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+* [Rotate Array](https://leetcode.com/problems/rotate-array/)
+* [Single Number](https://leetcode.com/problems/single-number/)
+* [String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+* [Valid Number](https://leetcode.com/problems/valid-number/)
